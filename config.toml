@@ -1,0 +1,4 @@
+baseURL = "https://drum-musicbeqwer.vercel.app"
+languageCode = "en-us"
+title = "Drum Sheet Music Free"
+theme = "hugo-theme-minos"
